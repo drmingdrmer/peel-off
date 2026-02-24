@@ -1,0 +1,13 @@
+[package]
+name = "peel-off"
+version = "0.1.0"
+edition = "2021"
+authors = ["张炎泼 <drdr.xp@gmail.com>"]
+description = "Peel off a specific variant from a Rust enum, splitting it into the extracted variant and the residual"
+documentation = "https://docs.rs/peel-off"
+homepage = "https://github.com/drmingdrmer/peel-off"
+repository = "https://github.com/drmingdrmer/peel-off"
+license = "MIT"
+keywords = ["enum", "error-handling", "pattern-matching"]
+categories = ["rust-patterns", "no-std"]
+readme = "README.md"
