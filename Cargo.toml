@@ -1,6 +1,6 @@
 [package]
 name = "peel-off"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["张炎泼 <drdr.xp@gmail.com>"]
 description = "Peel off a specific variant from a Rust enum, splitting it into the extracted variant and the residual"
